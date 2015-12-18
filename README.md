@@ -1,2 +1,2 @@
 # tools
-General tools we expect to reuse repeatedly
+This is a repo to house general tools we expect to use repeatedly.
